@@ -1,0 +1,516 @@
+entities  rooms
+0	28
+1	19
+2	86
+3	85
+4	27
+5	2
+6	9
+7	17
+8	8
+9	10
+10	69
+11	41
+12	55
+13	82
+14	88
+15	81
+16	62
+17	41
+18	0
+19	89
+20	50
+21	65
+22	47
+23	80
+24	36
+25	49
+26	68
+27	3
+28	90
+29	33
+30	54
+31	4
+32	53
+33	59
+34	51
+35	46
+36	42
+37	52
+38	35
+39	89
+40	78
+41	34
+42	78
+43	48
+44	35
+45	38
+46	58
+47	36
+48	41
+49	41
+50	60
+51	58
+52	57
+53	44
+54	33
+55	11
+56	20
+57	11
+58	26
+59	71
+60	7
+61	70
+62	3
+63	1
+64	7
+65	13
+66	79
+67	33
+68	16
+69	3
+70	41
+71	14
+72	53
+73	41
+74	15
+75	37
+76	36
+77	44
+78	57
+79	63
+80	57
+81	39
+82	46
+83	45
+84	45
+85	87
+86	91
+87	24
+88	70
+89	72
+90	31
+91	29
+92	87
+93	76
+94	64
+95	29
+96	24
+97	87
+98	7
+99	78
+100	60
+101	23
+102	32
+103	84
+104	30
+105	21
+106	6
+107	12
+108	79
+109	40
+110	75
+111	79
+112	83
+113	79
+114	18
+115	35
+116	79
+117	59
+118	79
+119	24
+120	43
+121	53
+122	56
+123	37
+124	52
+125	52
+126	43
+127	52
+128	61
+129	52
+130	74
+131	66
+132	79
+133	16
+134	77
+135	91
+136	16
+137	5
+138	25
+139	53
+140	79
+141	87
+142	91
+143	87
+144	52
+145	22
+146	44
+147	67
+148	73
+149	91
+
+Iteration: 19745
+Total Penalty: 1401.3000000000002
+Space Misuse Penalty: 701.3000000000001
+Soft Constraint Violation Penalty: 700
+No. of hard constraints violated: 0.0
+
+roomid space used space left
+0	15.0	0.0
+1	29.5	0.5
+2	14.0	1.0
+3	75.0	-2.0
+4	30.5	9.5
+5	5.5	0.0
+6	20.5	-2.6999999999999993
+7	67.5	-0.5
+8	14.0	-8.5
+9	14.0	0.5999999999999996
+10	14.0	-8.5
+11	43.0	-16.0
+12	20.5	-0.8000000000000007
+13	23.0	33.3
+14	24.5	-0.5
+15	18.5	0.6000000000000014
+16	35.5	-5.0
+17	14.0	1.0
+18	20.5	0.0
+19	23.0	15.5
+20	20.5	-2.0
+21	20.5	5.0
+22	5.5	0.0
+23	20.5	-0.5
+24	68.0	-3.0
+25	5.5	0.0
+26	16.5	2.0
+27	14.0	-1.4000000000000004
+28	23.0	1.5
+29	42.0	-16.0
+30	20.5	0.0
+31	20.5	0.0
+32	20.5	0.0
+33	70.5	0.5
+34	19.5	-3.8000000000000007
+35	64.5	-8.0
+36	62.0	0.0
+37	35.5	-10.8
+38	22.5	-6.5
+39	18.5	-5.0
+40	20.5	2.0
+41	128.0	-0.5
+42	18.5	2.0
+43	32.5	-17.5
+44	39.5	0.5
+45	30.0	-3.5
+46	39.0	-2.6000000000000014
+47	15.0	-0.9000000000000004
+48	26.5	27.5
+49	15.0	0.0
+50	15.0	-0.3000000000000007
+51	29.5	8.0
+52	107.0	-22.5
+53	77.0	-10.0
+54	20.5	0.0
+55	15.0	0.6999999999999993
+56	24.0	0.0
+57	66.5	-5.0
+58	32.5	-12.399999999999999
+59	35.0	-12.5
+60	38.5	-10.3
+61	22.5	7.0
+62	15.0	-3.5999999999999996
+63	18.5	-3.5
+64	20.0	-8.1
+65	15.0	-3.0
+66	25.5	-2.5
+67	5.5	6.300000000000001
+68	15.0	1.6999999999999993
+69	15.0	1.3000000000000007
+70	35.5	-15.0
+71	24.5	5.5
+72	23.0	0.0
+73	5.5	5.800000000000001
+74	25.5	15.5
+75	20.5	2.5
+76	15.0	-1.0
+77	10.0	1.9000000000000004
+78	61.0	-3.799999999999997
+79	181.5	-1.5
+80	15.0	-2.0
+81	15.0	0.0
+82	15.0	0.0
+83	20.5	0.0
+84	20.5	3.5
+85	14.0	1.0
+86	14.0	0.0
+87	60.5	-0.5
+88	15.0	-1.0
+89	43.5	-2.299999999999997
+90	15.0	-1.0
+91	34.5	-20.5
+
+constraint id  status
+0	violated
+1	violated
+2	satisfied
+3	violated
+4	violated
+5	violated
+6	satisfied
+7	violated
+8	satisfied
+9	satisfied
+10	satisfied
+11	violated
+12	satisfied
+13	violated
+14	violated
+15	satisfied
+16	violated
+17	satisfied
+18	violated
+19	satisfied
+20	violated
+21	satisfied
+22	satisfied
+23	satisfied
+24	satisfied
+25	violated
+26	satisfied
+27	violated
+28	violated
+29	violated
+30	satisfied
+31	violated
+32	satisfied
+33	satisfied
+34	satisfied
+35	satisfied
+36	satisfied
+37	satisfied
+38	satisfied
+39	satisfied
+40	satisfied
+41	satisfied
+42	satisfied
+43	satisfied
+44	satisfied
+45	satisfied
+46	satisfied
+47	satisfied
+48	satisfied
+49	satisfied
+50	violated
+51	satisfied
+52	satisfied
+53	violated
+54	satisfied
+55	violated
+56	violated
+57	satisfied
+58	satisfied
+59	satisfied
+60	violated
+61	violated
+62	satisfied
+63	violated
+64	satisfied
+65	violated
+66	satisfied
+67	violated
+68	violated
+69	violated
+70	satisfied
+71	satisfied
+72	satisfied
+73	satisfied
+74	satisfied
+75	satisfied
+76	satisfied
+77	satisfied
+78	satisfied
+79	satisfied
+80	satisfied
+81	satisfied
+82	satisfied
+83	satisfied
+84	satisfied
+85	satisfied
+86	satisfied
+87	satisfied
+88	satisfied
+89	satisfied
+90	satisfied
+91	satisfied
+92	satisfied
+93	satisfied
+94	satisfied
+95	satisfied
+96	satisfied
+97	satisfied
+98	satisfied
+99	satisfied
+100	satisfied
+101	satisfied
+102	satisfied
+103	satisfied
+104	satisfied
+105	satisfied
+106	satisfied
+107	satisfied
+108	satisfied
+109	satisfied
+110	satisfied
+111	satisfied
+112	satisfied
+113	satisfied
+114	satisfied
+115	satisfied
+116	satisfied
+117	satisfied
+118	satisfied
+119	satisfied
+120	satisfied
+121	satisfied
+122	satisfied
+123	satisfied
+124	satisfied
+125	satisfied
+126	satisfied
+127	satisfied
+128	satisfied
+129	satisfied
+130	satisfied
+131	satisfied
+132	satisfied
+133	satisfied
+134	satisfied
+135	satisfied
+136	satisfied
+137	satisfied
+138	satisfied
+139	satisfied
+140	satisfied
+141	satisfied
+142	satisfied
+143	satisfied
+144	violated
+145	violated
+146	satisfied
+147	satisfied
+148	violated
+149	violated
+150	satisfied
+151	satisfied
+152	satisfied
+153	satisfied
+154	violated
+155	violated
+156	satisfied
+157	satisfied
+158	satisfied
+159	satisfied
+160	satisfied
+161	satisfied
+162	violated
+163	satisfied
+164	satisfied
+165	satisfied
+166	satisfied
+167	satisfied
+168	satisfied
+169	satisfied
+170	violated
+171	satisfied
+172	satisfied
+173	satisfied
+174	satisfied
+175	satisfied
+176	satisfied
+177	satisfied
+178	satisfied
+179	satisfied
+180	satisfied
+181	satisfied
+182	satisfied
+183	violated
+184	violated
+185	satisfied
+186	satisfied
+187	satisfied
+188	satisfied
+189	violated
+190	satisfied
+191	satisfied
+192	satisfied
+193	violated
+194	satisfied
+195	satisfied
+196	violated
+197	satisfied
+198	satisfied
+199	satisfied
+200	satisfied
+201	satisfied
+202	satisfied
+203	satisfied
+204	satisfied
+205	satisfied
+206	satisfied
+207	satisfied
+208	violated
+209	satisfied
+210	satisfied
+211	violated
+212	satisfied
+213	satisfied
+214	satisfied
+215	violated
+216	satisfied
+217	violated
+218	satisfied
+219	violated
+220	satisfied
+221	satisfied
+222	satisfied
+223	satisfied
+224	satisfied
+225	satisfied
+226	satisfied
+227	satisfied
+228	satisfied
+229	satisfied
+230	satisfied
+231	satisfied
+232	violated
+233	satisfied
+234	violated
+235	violated
+236	violated
+237	satisfied
+238	satisfied
+239	satisfied
+240	violated
+241	violated
+242	violated
+243	satisfied
+244	satisfied
+245	satisfied
+246	satisfied
+247	satisfied
+248	satisfied
+249	satisfied
+250	satisfied
+251	satisfied
+252	satisfied
+253	satisfied
+254	satisfied
+255	satisfied
+256	satisfied
+257	satisfied
+258	satisfied
+259	satisfied
+260	satisfied
+261	satisfied
+262	satisfied
