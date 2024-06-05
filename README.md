@@ -9,4 +9,4 @@ It includes heuristics and procedures (Python Files) that:
 3) Then explores the neighbourhood search space of that initial allocation to find the best feasible solution/entity-space allocation
 4) Then finally provides this best feasible solution/allocation as output to a text file. 
 
-The documentation pdf and the dissertation pdf together will provide comprehensive information regarding the project. 
+The dissertation report pdf (specifically chapter 2 and chapter 4) and the documentation pdf will provide comprehensive information regarding the project. 
